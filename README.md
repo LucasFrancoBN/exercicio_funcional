@@ -1,5 +1,5 @@
 # Exercício
-O programa feito nesse exercício deve fazer a leitura dos dados (nome, email e salário) de funcionários de um arquivo em formato .csv. As regras do exercício são:
+O programa feito a partir desse exercício deve fazer a leitura dos dados (nome, email e salário) de funcionários de um arquivo em formato .csv. As regras do exercício são:
 
 1. **Mostrar, em ordem alfabética, o email dos funcionários cujo salário seja superior a um dado valor fornecido pelo usuário.**
 2. **Mostrar também a soma dos salários dos funcionários cujo nome começa com a letra 'M'.**
