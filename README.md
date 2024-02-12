@@ -40,7 +40,7 @@ Antes de tudo, recomendo que você, pelo terminal, navegue até o diretório Des
 git clone https://github.com/LucasFrancoBN/exercicio_funcional.git
 
 # Acesse o diretório da classe Program
-cd exercicio_fixacao_arquivos/src/application
+cd exercicio_funcional/src/application
 ```
 Agora basta você digitar no seu terminal
 ```bash
